@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>SSK-COMPAGNY - Stairs</title>
+<style>
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background: #4527A0;
+}
+.container p {
+  color: white;
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+  height: 1em;
+  overflow: hidden;
+  position: relative;
+  left: -0.8em;
+}
+
+.container p:nth-child(odd) {
+  transform: skewY(-30deg) skewX(45deg) scaleY(1.3333);
+}
+
+.container p:nth-child(even) {
+  transform: skewY(-30deg) scaleY(1.3333);
+}
+
+.container p:nth-child(2) {
+  margin-left: 1.3em;
+  border-top:1px solid #fff;
+  border-bottom:1px solid #fff;
+}
+
+.container p:nth-child(3) {
+  margin-left: 2.6em;
+}
+
+.container p span {
+  display: block;
+  text-align: center;
+  line-height: 1em;
+  animation: letter 3s infinite ease-in-out alternate
+}
+
+@keyframes letter {
+  to {
+    transform: translateY(-100%);
+  }
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <p>
+    <span><font color="#FF5500" >HTML</font></span>
+    <span>I</span>
+  </p>
+  
+  <p> 
+    <span><font color="#0076FF" >CSS</font></span>
+    <span><font color="#D81B60" >Love</font></span>
+  </p>
+
+  <p>
+    <span><font color="#FDAD3F" >JS</font></span>
+    <span>SSK-COMPAGNY</span>
+  </p>
+</div>
+
+</body>
+</html>
+
+
