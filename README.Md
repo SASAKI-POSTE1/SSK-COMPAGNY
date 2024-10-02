@@ -14,14 +14,6 @@
 - **Guide ou oritentation :** Grâce à notre équipe vous avez les garanties d'être suivi de près à chaque fois que vous entamez une nouvelle étape de le codage programmation et développement.
 
 
-
-
-## Fonctionnalités Ludiques
-
-
-
-
-
 ## Moyens de communication
 
 1. Veillez cliquer sur **[Support Group](https://chat.whatsapp.com/IdB2EfQiNlKBekQrigN9m9)** Afin de vous rendre directement dans le groupe de discussion où vous pourrez discuter directement avec les administrateurs. 
