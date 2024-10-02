@@ -53,7 +53,7 @@ Nous remercions certaines personnes pour leur contribution :
                 
 ## Licence
 
-Le Bot WhatsApp Zokou est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
+SSK-COMPAGNY est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
 vous l'aurez compris <br>
 SSK-CAMPAGNY forment ces membres et utilisateurs dans les domaines telles que L'apprentissage du codage HTML, CSS et python ; Les cours sur le piratage éthique et concepts ; cours sur le développement et le déploiement des Bots WhatsApp sur Github et toutes ses plateformes ; les cours sur les réseaux d'information ,les activités légales et les statistiques variable de tout ce qui est liés a l'informatique.
